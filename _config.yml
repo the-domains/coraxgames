@@ -1,0 +1,28 @@
+name: CoraxGames
+favicon: null
+layout_spectrum: 0.030786758521571755
+typography_spectrum: 0.602073339279741
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.5613397934939712
+  lightness: 0.26093294541351497
+  saturation: 0.04440140235237777
+  rhythmicContrast: 0.17135547450743616
+purpose: []
